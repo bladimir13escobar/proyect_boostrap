@@ -1,0 +1,38 @@
+.text_menor {
+    font-size: 13px;
+}
+
+.div_facilidades {
+        width: 325px;
+}
+
+.div_novedades {
+    width: 325px;
+}
+
+.color_greenLight {
+    color: #DAFF01;
+    font-weight: 600;
+}
+
+.color_lila {
+    background-color: #9353FF;
+}
+
+.color_gray {
+    background-color: #00000021;
+}
+
+.posicion {
+    top: 55%;
+}
+
+@media(min-width:768px){
+    .div_novedades{
+        width: 696px;
+    }
+    .posicion{
+        top: 40%;
+    }
+
+}
